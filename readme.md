@@ -21,6 +21,7 @@
 - 项目说明文档
 - 模糊搜索
 - 验证码
+- 用户评论
 ## 3. 技术
 - 前端：使用了boostrap框架
 - 后端：JSP+Servlet+JavaBean
